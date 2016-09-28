@@ -122,7 +122,7 @@ ejs@2.5.2 node_modules\ejs
 
 ## 3. html调用页面javascript的路径问题 
 
-![Alt text](./QQ图片20160928144032.png)
+![Alt text](./img/img1.png)
 
 ``` javascript
 
