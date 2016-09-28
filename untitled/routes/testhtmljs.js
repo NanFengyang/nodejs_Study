@@ -5,7 +5,7 @@ var express = require('express');
 var routes = express.Router();
 
 routes.get('/', function (req, res, next) {
-    res.render('test');
+    res.render('testhtml');
 });
 routes.post('/', function (req, res, next) {
     res.send("POST方法");
