@@ -20,7 +20,7 @@ router.post('/', function (req, res, next) {
             code: 200,
             msg: "数据请求成功",
             user: {
-                name: "莫少雪",
+                name: "小灰灰",
                 sex: "女",
                 email: "2511575099@qq.com"
             }
